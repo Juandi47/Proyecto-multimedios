@@ -94,31 +94,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Microsoft.AI.Agent.Intercept.dll" />
-    <Content Include="bin\Microsoft.AI.DependencyCollector.dll" />
-    <Content Include="bin\Microsoft.AI.DependencyCollector.xml" />
-    <Content Include="bin\Microsoft.AI.PerfCounterCollector.dll" />
-    <Content Include="bin\Microsoft.AI.ServerTelemetryChannel.dll" />
-    <Content Include="bin\Microsoft.AI.ServerTelemetryChannel.xml" />
-    <Content Include="bin\Microsoft.AI.Web.dll" />
-    <Content Include="bin\Microsoft.AI.Web.xml" />
-    <Content Include="bin\Microsoft.AI.WindowsServer.dll" />
-    <Content Include="bin\Microsoft.AI.WindowsServer.xml" />
-    <Content Include="bin\Microsoft.ApplicationInsights.dll" />
-    <Content Include="bin\Microsoft.ApplicationInsights.xml" />
-    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
-    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
-    <Content Include="bin\Principal.dll" />
-    <Content Include="bin\Principal.pdb" />
-    <Content Include="bin\roslyn\csc.exe" />
-    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
-    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
-    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
-    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
-    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
-    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
-    <Content Include="bin\roslyn\vbc.exe" />
-    <Content Include="bin\roslyn\VBCSCompiler.exe" />
     <Content Include="images\arrow_r.png" />
     <Content Include="images\avatar.svg" />
     <Content Include="images\best_1.jpg" />
@@ -190,58 +165,15 @@
     <Content Include="js\custom.js" />
     <Content Include="js\jquery-3.2.1.min.js" />
     <Content Include="js\product_custom.js" />
-    <Content Include="obj\Debug\Principal.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\Principal.dll" />
-    <Content Include="obj\Debug\Principal.pdb" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Master.Master" />
-    <Content Include="bin\ApplicationInsights.config" />
-    <Content Include="bin\Principal.dll.config" />
-    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
-    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
-    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
     <Content Include="fonts\beyond_the_mountains.otf" />
     <Content Include="fonts\beyond_the_mountains.ttf" />
     <Content Include="fonts\lucida_bright_demi.ttf" />
     <Content Include="fonts\lucida_bright_regular.ttf" />
-    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <Content Include="obj\Debug\Principal.csprojResolveAssemblyReference.cache" />
-    <Content Include="plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
-    <Content Include="plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
-    <Content Include="plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
-    <Content Include="plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
-    <Content Include="plugins\font-awesome-4.7.0\fonts\FontAwesome.otf" />
-    <Content Include="plugins\font-awesome-4.7.0\less\animated.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\bordered-pulled.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\core.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\fixed-width.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\font-awesome.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\icons.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\larger.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\list.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\mixins.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\path.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\rotated-flipped.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\screen-reader.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\stacked.less" />
-    <Content Include="plugins\font-awesome-4.7.0\less\variables.less" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\font-awesome.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_animated.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_core.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_fixed-width.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_icons.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_larger.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_list.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_mixins.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_path.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_screen-reader.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_stacked.scss" />
-    <Content Include="plugins\font-awesome-4.7.0\scss\_variables.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -250,36 +182,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="plugins\colorbox\colorbox.css" />
-    <Content Include="plugins\colorbox\images\border.png" />
-    <Content Include="plugins\colorbox\images\controls.png" />
-    <Content Include="plugins\colorbox\images\loading.gif" />
-    <Content Include="plugins\colorbox\images\loading_background.png" />
-    <Content Include="plugins\colorbox\images\overlay.png" />
-    <Content Include="plugins\colorbox\jquery.colorbox-min.js" />
-    <Content Include="plugins\easing\easing.js" />
-    <Content Include="plugins\font-awesome-4.7.0\css\font-awesome.css" />
-    <Content Include="plugins\font-awesome-4.7.0\css\font-awesome.min.css" />
-    <Content Include="plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
-    <Content Include="plugins\font-awesome-4.7.0\HELP-US-OUT.txt" />
-    <Content Include="plugins\greensock\animation.gsap.min.js" />
-    <Content Include="plugins\greensock\ScrollToPlugin.min.js" />
-    <Content Include="plugins\greensock\TimelineMax.min.js" />
-    <Content Include="plugins\greensock\TweenMax.min.js" />
-    <Content Include="plugins\Isotope\isotope.pkgd.min.js" />
-    <Content Include="plugins\jquery-ui-1.12.1.custom\jquery-ui.css" />
-    <Content Include="plugins\jquery-ui-1.12.1.custom\jquery-ui.js" />
-    <Content Include="plugins\malihu-custom-scrollbar\jquery.mCustomScrollbar.css" />
-    <Content Include="plugins\malihu-custom-scrollbar\jquery.mCustomScrollbar.js" />
-    <Content Include="plugins\malihu-custom-scrollbar\mCSB_buttons.png" />
-    <Content Include="plugins\OwlCarousel2-2.2.1\ajax-loader.gif" />
-    <Content Include="plugins\OwlCarousel2-2.2.1\animate.css" />
-    <Content Include="plugins\OwlCarousel2-2.2.1\owl.carousel.css" />
-    <Content Include="plugins\OwlCarousel2-2.2.1\owl.carousel.js" />
-    <Content Include="plugins\OwlCarousel2-2.2.1\owl.theme.default.css" />
-    <Content Include="plugins\OwlCarousel2-2.2.1\owl.video.play.png" />
-    <Content Include="plugins\parallax-js-master\parallax.min.js" />
-    <Content Include="plugins\scrollmagic\ScrollMagic.min.js" />
     <Content Include="Principal.aspx" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
@@ -308,9 +210,6 @@
     <Compile Include="Master.Master.designer.cs">
       <DependentUpon>Master.Master</DependentUpon>
     </Compile>
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Principal.aspx.cs">
       <DependentUpon>Principal.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -321,7 +220,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="plugins\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
