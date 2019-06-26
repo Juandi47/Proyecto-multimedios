@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Proyecto_Alimar/BL
+/Proyecto_Alimar/DAO
+/Proyecto_Alimar/Principal
+/Proyecto_Alimar/TO
+/Proyecto_Alimar
