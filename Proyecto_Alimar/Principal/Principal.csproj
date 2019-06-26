@@ -158,6 +158,7 @@
     <Content Include="images\trash.png" />
     <Content Include="images\Untitled-1.jpg" />
     <Content Include="images\visa.jpg" />
+    <Content Include="images\video.mp4" />
     <Content Include="js\cart_custom.js" />
     <Content Include="js\categories_custom.js" />
     <Content Include="js\checkout_custom.js" />
